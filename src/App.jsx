@@ -86,7 +86,7 @@ function App() {
         </section>
         <section className="destaque">
 
-          <iframe src="https://www.youtube.com/embed/U3Vtf5r9kfU?si=apB_3cMt6mw6zFuV" title="YouTube video player" frameborder="0" allow="autoplay; fullscreen"></iframe>
+          <iframe src="https://www.youtube.com/embed/BGgWl2DSRVg?autoplay=1&mute=1&controls=0&loop=1&playlist=BGgWl2DSRVg&modestbranding=1&showinfo=0" frameborder="0" allow="autoplay; fullscreen"></iframe>
 
         </section>
         <footer>
